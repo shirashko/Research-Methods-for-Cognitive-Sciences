@@ -2,7 +2,7 @@
 
 Repository for the "Research Methods in Cognitive Science" course. This repository includes various projects and exercises that illustrate key concepts in statistics and research methods, such as hypothesis testing, ANOVA, correlation, regression, and more.
 
-![Research Methods in Cognitive Science](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DxdZSWsKk5P0&psig=AOvVaw1Ei7WZK9U2UwvinfeP592q&ust=1718449816018000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiTt8n62oYDFQAAAAAdAAAAABAE)
+<img src="https://i.ytimg.com/vi/xdZSWsKk5P0/maxresdefault.jpg" alt="Research Methods in Cognitive Science" width="600"/>
 
 ## Course Overview
 
@@ -31,5 +31,3 @@ Each project directory contains the source code, a detailed pdf explaining the c
 ### Project 5: Advanced Data Analysis with Outliers and Visualization
 
 - **Description**: Performing advanced data analysis using R, including outlier removal, hypothesis testing, and creating advanced visualizations.
-
-![Project 5](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DxdZSWsKk5P0&psig=AOvVaw1Ei7WZK9U2UwvinfeP592q&ust=1718449816018000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiTt8n62oYDFQAAAAAdAAAAABAE)
